@@ -1,8 +1,15 @@
 body {
   margin: 0;
-  font-family: 'Rubik', sans-serif;
+  // font-family: 'Rubik', sans-serif;
+  // font-family: 'Clash Display', sans-serif;
+  // font-family: 'Satoshi', sans-serif;
+  font-family: 'Archivo', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Clash Display', sans-serif;
 }
 
 code {

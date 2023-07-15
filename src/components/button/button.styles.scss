@@ -8,12 +8,11 @@
   font-size: 15px;
   background-color: black;
   color: white;
-  text-transform: uppercase;
-  font-weight: bolder;
   border: none;
   cursor: pointer;
   display: flex;
   justify-content: center;
+  font-family: 'Archivo', sans-serif;
 
   &:hover {
     background-color: white;

@@ -28,7 +28,7 @@ const SignInForm = () => {
   };
 
   const signInWithGoogle = async () => {
-    // After the user clicks the on the button and the user signs in into the account
+    // After the user clicks on the button and the user signs into the account
     // the user object is destructured from the response and passed into the
     // createUserDocumentFromAuth() method which is then saved in firestore.
 
